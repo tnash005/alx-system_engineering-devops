@@ -3,3 +3,4 @@ script to display contents
 change directory
 display in long format
 display hidden files
+display current directory contents
