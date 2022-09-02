@@ -1,1 +1,1 @@
-script that changes the owner
+ script that changes the owner and the group owner
